@@ -3,3 +3,5 @@ This is a script for fivem and when you do /help it gives you the discord invite
 Change the messages to what ever you want it to be.
 
 In game just do /help. You could just change it to "IF SOMEONE IS FAILRPING CONTACT STAFF." Anything you woud like.
+
+If you need any support feel free to contact me on discord Aang#8137
